@@ -1,0 +1,6 @@
+{
+  "name": "Skynet Trading Engine",
+  "description": "Evolving algorithmic trading terminal with automated risk-reward evolution, stage-gate vaulting, real-time charting, and Gemini market intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
